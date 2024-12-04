@@ -1,0 +1,2 @@
+# SimpleScan
+Automated nmap
