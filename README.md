@@ -1,16 +1,3 @@
-SimpleScan
-Automated nmap
-
-`git clone https://github.com/Amina0011/SimpleScan.git`
-
-`python3 -m venv venv`
-
-`source venv/bin/activate`
-
-`pip3 install -r requirements.txt`
-
-
-
 # SimpleScan
 
 A Python-based network security scanning tool that provides multiple scanning capabilities including port scanning, network discovery, and vulnerability detection. SimpleScan offers an intuitive command-line interface for security professionals and network administrators.
@@ -116,11 +103,19 @@ Results include:
 - Potential vulnerabilities
 - Host information
 
-## Video Tutorial
+## Documentation Resources
+
+### Video Tutorial
 
 For a detailed walkthrough of SimpleScan's features and usage, watch the demonstration video:
 
 [SimpleScan Tutorial and Demo](https://youtu.be/p45PA0CEpxs)
+
+### Project Presentation
+
+For a comprehensive overview of SimpleScan's architecture, design decisions, and technical implementation:
+
+[View Project Presentation](https://www.canva.com/design/DAGThb7DUmU/IqYgDbV7YFYdbfzcupxLsg/edit?utm_content=DAGThb7DUmU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Security and Legal Considerations
 
@@ -188,7 +183,7 @@ This project is intended for educational and authorized security testing purpose
 
 ## Author
 
-Developed by Amina Nuriddinova
+Developed by Amina
 
 ## Contact
 
